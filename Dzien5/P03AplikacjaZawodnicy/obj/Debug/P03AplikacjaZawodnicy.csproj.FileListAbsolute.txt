@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\bin\Debug\P03AplikacjaZawodnicy.exe.config
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\bin\Debug\P03AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\bin\Debug\P03AplikacjaZawodnicy.pdb
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.pdb
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.FrmZawodnicy.resources
+C:\Users\fabia\source\repos\Dzien5\P03AplikacjaZawodnicy\obj\Debug\P03AplikacjaZawodnicy.FrmSzczegoly.resources

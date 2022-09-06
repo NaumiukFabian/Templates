@@ -1,0 +1,15 @@
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\P04BibliotekaPDF.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\P04BibliotekaPDF.pdb
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\P05BibliotekaZawodnikVM.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\PdfSharp.Charting.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\PdfSharp.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\P05BibliotekaZawodnikVM.pdb
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\PdfSharp.xml
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\PdfSharp.Charting.xml
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\obj\Debug\P04BibliotekaPDF.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\obj\Debug\P04BibliotekaPDF.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\obj\Debug\P04BibliotekaPDF.csproj.CopyComplete
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\obj\Debug\P04BibliotekaPDF.dll
+C:\Users\fabia\source\repos\Dzien7\P04BibliotekaPDF\obj\Debug\P04BibliotekaPDF.pdb

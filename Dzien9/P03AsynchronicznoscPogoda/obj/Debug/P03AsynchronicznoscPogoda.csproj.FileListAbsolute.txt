@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\bin\Debug\P03AsynchronicznoscPogoda.exe.config
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\bin\Debug\P03AsynchronicznoscPogoda.exe
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\bin\Debug\P03AsynchronicznoscPogoda.pdb
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.Form1.resources
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.exe
+C:\Users\fabia\source\repos\Dzien9\P03AsynchronicznoscPogoda\obj\Debug\P03AsynchronicznoscPogoda.pdb

@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\bin\Debug\P03TabliceTablic.exe.config
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\bin\Debug\P03TabliceTablic.exe
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\bin\Debug\P03TabliceTablic.pdb
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\obj\Debug\P03TabliceTablic.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\obj\Debug\P03TabliceTablic.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\obj\Debug\P03TabliceTablic.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\obj\Debug\P03TabliceTablic.exe
+C:\Users\fabia\source\repos\Dzien6\P03TabliceTablic\obj\Debug\P03TabliceTablic.pdb

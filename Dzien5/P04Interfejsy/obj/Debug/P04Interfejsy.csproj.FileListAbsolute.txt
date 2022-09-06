@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\bin\Debug\P04Interfejsy.exe.config
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\bin\Debug\P04Interfejsy.exe
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\bin\Debug\P04Interfejsy.pdb
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\obj\Debug\P04Interfejsy.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\obj\Debug\P04Interfejsy.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\obj\Debug\P04Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\obj\Debug\P04Interfejsy.exe
+C:\Users\fabia\source\repos\Dzien5\P04Interfejsy\obj\Debug\P04Interfejsy.pdb

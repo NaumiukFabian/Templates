@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\bin\Debug\P02PolaczenieZBaza.exe.config
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\bin\Debug\P02PolaczenieZBaza.exe
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\bin\Debug\P02PolaczenieZBaza.pdb
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\obj\Debug\P02PolaczenieZBaza.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\obj\Debug\P02PolaczenieZBaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\obj\Debug\P02PolaczenieZBaza.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\obj\Debug\P02PolaczenieZBaza.exe
+C:\Users\fabia\source\repos\Dzien6\P02PolaczenieZBaza\obj\Debug\P02PolaczenieZBaza.pdb

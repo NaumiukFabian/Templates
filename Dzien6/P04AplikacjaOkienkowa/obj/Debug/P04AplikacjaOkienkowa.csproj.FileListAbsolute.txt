@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\bin\Debug\P04AplikacjaOkienkowa.exe.config
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\bin\Debug\P04AplikacjaOkienkowa.exe
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\bin\Debug\P04AplikacjaOkienkowa.pdb
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.Form1.resources
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.exe
+C:\Users\fabia\source\repos\Dzien6\P04AplikacjaOkienkowa\obj\Debug\P04AplikacjaOkienkowa.pdb

@@ -1,0 +1,14 @@
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\bin\Debug\P05PasekLadowania.exe.config
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\bin\Debug\P05PasekLadowania.exe
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\bin\Debug\P05PasekLadowania.pdb
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\bin\Debug\P05BibliotekaZawodnikVM.dll
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\bin\Debug\P05BibliotekaZawodnikVM.pdb
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.Form1.resources
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.csproj.CopyComplete
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.exe
+C:\Users\fabia\source\repos\Dzien10\P05PasekLadowania\obj\Debug\P05PasekLadowania.pdb

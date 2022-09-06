@@ -1,0 +1,2 @@
+C:\Users\fabia\source\repos\Dzien10\Powtórzenie\obj\Debug\Powtórzenie.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien10\Powtórzenie\obj\Debug\Powtórzenie.csproj.CoreCompileInputs.cache

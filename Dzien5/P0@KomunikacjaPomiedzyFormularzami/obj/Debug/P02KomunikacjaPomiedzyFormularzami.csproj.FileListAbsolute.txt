@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\bin\Debug\P0@KomunikacjaPomiedzyFormularzami.exe.config
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\bin\Debug\P0@KomunikacjaPomiedzyFormularzami.exe
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\bin\Debug\P0@KomunikacjaPomiedzyFormularzami.pdb
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P02KomunikacjaPomiedzyFormularzami.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P02KomunikacjaPomiedzyFormularzami.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P0_KomunikacjaPomiedzyFormularzami.FrmStartowy.resources
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P0_KomunikacjaPomiedzyFormularzami.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P02KomunikacjaPomiedzyFormularzami.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P02KomunikacjaPomiedzyFormularzami.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P0@KomunikacjaPomiedzyFormularzami.exe
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P0@KomunikacjaPomiedzyFormularzami.pdb
+C:\Users\fabia\source\repos\Dzien5\P0@KomunikacjaPomiedzyFormularzami\obj\Debug\P0_KomunikacjaPomiedzyFormularzami.FrmSzczegoly.resources

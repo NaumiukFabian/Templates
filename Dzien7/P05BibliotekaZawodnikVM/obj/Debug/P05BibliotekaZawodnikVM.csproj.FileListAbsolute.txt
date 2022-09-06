@@ -1,0 +1,6 @@
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\bin\Debug\P05BibliotekaZawodnikVM.dll
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\bin\Debug\P05BibliotekaZawodnikVM.pdb
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\obj\Debug\P05BibliotekaZawodnikVM.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\obj\Debug\P05BibliotekaZawodnikVM.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\obj\Debug\P05BibliotekaZawodnikVM.dll
+C:\Users\fabia\source\repos\Dzien7\P05BibliotekaZawodnikVM\obj\Debug\P05BibliotekaZawodnikVM.pdb

@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\bin\Debug\P01WstepLINQ.exe.config
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\bin\Debug\P01WstepLINQ.exe
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\bin\Debug\P01WstepLINQ.pdb
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\obj\Debug\P01WstepLINQ.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\obj\Debug\P01WstepLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\obj\Debug\P01WstepLINQ.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\obj\Debug\P01WstepLINQ.exe
+C:\Users\fabia\source\repos\Dzien7\P01WstepLINQ\obj\Debug\P01WstepLINQ.pdb

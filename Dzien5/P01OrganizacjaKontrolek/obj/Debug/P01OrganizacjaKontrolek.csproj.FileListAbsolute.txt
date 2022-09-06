@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\bin\Debug\P01OrganizacjaKontrolek.exe.config
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\bin\Debug\P01OrganizacjaKontrolek.exe
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\bin\Debug\P01OrganizacjaKontrolek.pdb
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.Form1.resources
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.exe
+C:\Users\fabia\source\repos\Dzien5\P01OrganizacjaKontrolek\obj\Debug\P01OrganizacjaKontrolek.pdb

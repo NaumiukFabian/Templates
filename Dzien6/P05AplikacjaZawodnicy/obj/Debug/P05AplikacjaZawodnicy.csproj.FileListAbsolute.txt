@@ -1,0 +1,14 @@
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\bin\Debug\P05AplikacjaZawodnicy.exe.config
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\bin\Debug\P05AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\bin\Debug\P05AplikacjaZawodnicy.pdb
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.FrmEdycjaTrenera.resources
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.FrmSzczegoly.resources
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.FrmZawodnicy.resources
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.NullableDateTimePicer.resources
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien6\P05AplikacjaZawodnicy\obj\Debug\P05AplikacjaZawodnicy.pdb

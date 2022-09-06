@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\bin\Debug\P01AplikacjaBazodanowa.exe.config
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\bin\Debug\P01AplikacjaBazodanowa.exe
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\bin\Debug\P01AplikacjaBazodanowa.pdb
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\obj\Debug\P01AplikacjaBazodanowa.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\obj\Debug\P01AplikacjaBazodanowa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\obj\Debug\P01AplikacjaBazodanowa.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\obj\Debug\P01AplikacjaBazodanowa.exe
+C:\Users\fabia\source\repos\Dzien6\P01AplikacjaBazodanowa\obj\Debug\P01AplikacjaBazodanowa.pdb

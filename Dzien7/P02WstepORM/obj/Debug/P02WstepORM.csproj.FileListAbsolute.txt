@@ -1,0 +1,8 @@
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\bin\Debug\P02WstepORM.exe.config
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\bin\Debug\P02WstepORM.exe
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\bin\Debug\P02WstepORM.pdb
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\obj\Debug\P02WstepORM.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\obj\Debug\P02WstepORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\obj\Debug\P02WstepORM.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\obj\Debug\P02WstepORM.exe
+C:\Users\fabia\source\repos\Dzien7\P02WstepORM\obj\Debug\P02WstepORM.pdb

@@ -1,0 +1,12 @@
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\bin\Debug\P04AutentykacjaAplikacjiDesktopowej.exe.config
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\bin\Debug\P04AutentykacjaAplikacjiDesktopowej.exe
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\bin\Debug\P04AutentykacjaAplikacjiDesktopowej.pdb
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.Form1.resources
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.frmLogowanie.resources
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.exe
+C:\Users\fabia\source\repos\Dzien10\P04AutentykacjaAplikacjiDesktopowej\obj\Debug\P04AutentykacjaAplikacjiDesktopowej.pdb

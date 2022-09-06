@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\bin\Debug\P04AplikacjaZawodnicy.exe.config
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\bin\Debug\P04AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\bin\Debug\P04AplikacjaZawodnicy.pdb
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.Form1.resources
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.Properties.Resources.resources
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.exe
+C:\Users\fabia\source\repos\Dzien4\P04AplikacjaZawodnicy\obj\Debug\P04AplikacjaZawodnicy.pdb

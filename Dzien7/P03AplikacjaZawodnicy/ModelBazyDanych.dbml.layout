@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 8.5" name="ModelBazyDanych">
+  <DataContextMoniker Name="/ModelBazyDanychDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c4d965f8-45a9-48e7-81a9-22b8ad5473b7" absoluteBounds="9, 2, 2, 2.5401025390625">
+      <DataClassMoniker Name="/ModelBazyDanychDataContext/Zawodnik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd81595c-60b4-463d-8944-03f2084b30db" absoluteBounds="9.015, 2.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="960730ad-1cee-44bb-aa38-73e144933850" absoluteBounds="6.375, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ModelBazyDanychDataContext/Trener" />
+      <nestedChildShapes>
+        <elementListCompartment Id="834fb491-fd65-4a0b-b2cf-0896a18d3c32" absoluteBounds="6.39, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1c756f4-b646-4f4c-af17-41b077fa881b" absoluteBounds="4.125, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ModelBazyDanychDataContext/Temp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04bc1d70-431e-4032-9c43-d22175d43f31" absoluteBounds="4.14, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
